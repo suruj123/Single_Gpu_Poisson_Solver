@@ -1,0 +1,2 @@
+1. Using PGI/19.10, we compile the code *.c.
+2. Then using the job.sh file, we submit the job in our ANTYA cluster using qsub job.sh
